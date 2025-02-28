@@ -13,6 +13,11 @@ Features:
 
 Feel free to fork and experiment with the code! 🚀
 
+![Screenshot 2025-02-28 165615](https://github.com/user-attachments/assets/c7272441-737f-414b-9301-3cfd730af391)
+![Screenshot 2025-02-28 165634](https://github.com/user-attachments/assets/e262650d-c6a7-493f-b61d-8dc0818bd551)
+
+
+
 
 
 
