@@ -7,7 +7,7 @@ This is a simple static Amazon clone webpage built using HTML and CSS. It replic
 Features:
 ✅ Responsive design
 ✅ Amazon-like layout and styling
-✅ Basic product sections
+✅ Basic product section
 
 🔹 This project is for educational purposes only and does not involve any real transactions.
 
